@@ -1,6 +1,8 @@
 # db-final-project - Betting-Database
 By Sarthak Shrivastava, Zain Alam, Ayan Chowdhury 
 
+NOTE: We are currently attempting to implement linking between our domain and user classes, but at the moment the code reflected does not support that functionality due to trouble on our end. To see the front end for each class, go to the final_project folder. There are three folders, one for each of our implemented classes that have their own index.html file. Run the demo application file and then the index.html in each folder should work. 
+
 This project is a small scale implementation of NBA statistics so that there can be a centralized application where Users can track the progress of their favorite teams and players 
 throughout the season. Our database allows users to create an account and make a list of their favorite teams and players, so that they can view the information that is relevant 
 to them. We also added statistics about spread and favored teams to our database for those users that are interested in sports betting. 
