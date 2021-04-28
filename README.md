@@ -1,7 +1,7 @@
 # db-final-project - Betting-Database
 By Sarthak Shrivastava, Zain Alam, Ayan Chowdhury 
 
-NOTE: We are currently attempting to implement linking between our domain and user classes, but at the moment the code reflected does not support that functionality due to trouble on our end. To see the front end for each class, go to the final_project folder. There are three folders, one for each of our implemented classes that have their own index.html file. Run the demo application file and then the index.html in each folder should work. 
+NOTE: To run the webapp, go to the folder final_project and then go to social. Running the index.html file here establishes links between pages, as this one has the hashrouter set up. For setting up the project, unzip the code and open with the editor of your choice. Import the database dump into mySQL and then change the password and schema name in the application settings to the connection that you imported the database to. 
 
 This project is a small scale implementation of NBA statistics so that there can be a centralized application where Users can track the progress of their favorite teams and players 
 throughout the season. Our database allows users to create an account and make a list of their favorite teams and players, so that they can view the information that is relevant 
